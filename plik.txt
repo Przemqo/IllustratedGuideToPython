@@ -1,0 +1,4 @@
+przykladowy tekst
+druga linia
+trzecia linia
+wszystko
